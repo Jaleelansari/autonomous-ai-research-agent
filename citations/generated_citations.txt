@@ -1,0 +1,50 @@
+
+Paper 1
+
+APA Citation:
+Qingyao Ai, Jingtao Zhan, Yiqun Liu (2025). Foundations of GenIR. arXiv. https://arxiv.org/pdf/2501.02842v1
+
+IEEE Citation:
+[1] Qingyao Ai, Jingtao Zhan, Yiqun Liu, "Foundations of GenIR," arXiv, 2025. [Online]. Available: https://arxiv.org/pdf/2501.02842v1
+
+================================================================================
+
+Paper 2
+
+APA Citation:
+Aoi Naito, Hirokazu Shirado (2026). AI prediction leads people to forgo guaranteed rewards. arXiv. https://arxiv.org/pdf/2603.28944v1
+
+IEEE Citation:
+[2] Aoi Naito, Hirokazu Shirado, "AI prediction leads people to forgo guaranteed rewards," arXiv, 2026. [Online]. Available: https://arxiv.org/pdf/2603.28944v1
+
+================================================================================
+
+Paper 3
+
+APA Citation:
+Melissa Wilfley, Mengting Ai, Madelyn Rose Sanfilippo (2026). Competing Visions of Ethical AI: A Case Study of OpenAI. arXiv. https://arxiv.org/pdf/2601.16513v1
+
+IEEE Citation:
+[3] Melissa Wilfley, Mengting Ai, Madelyn Rose Sanfilippo, "Competing Visions of Ethical AI: A Case Study of OpenAI," arXiv, 2026. [Online]. Available: https://arxiv.org/pdf/2601.16513v1
+
+================================================================================
+
+Paper 4
+
+APA Citation:
+Ayse Gizem Yasar, Andrew Chong, Evan Dong, Thomas Krendl Gilbert, Sarah Hladikova, Roland Maio, Carlos Mougan, Xudong Shen, Shubham Singh, Ana-Andreea Stoica, Savannah Thais, Miri Zilka (2023). AI and the EU Digital Markets Act: Addressing the Risks of Bigness in Generative AI. arXiv. https://arxiv.org/pdf/2308.02033v1
+
+IEEE Citation:
+[4] Ayse Gizem Yasar, Andrew Chong, Evan Dong, Thomas Krendl Gilbert, Sarah Hladikova, Roland Maio, Carlos Mougan, Xudong Shen, Shubham Singh, Ana-Andreea Stoica, Savannah Thais, Miri Zilka, "AI and the EU Digital Markets Act: Addressing the Risks of Bigness in Generative AI," arXiv, 2023. [Online]. Available: https://arxiv.org/pdf/2308.02033v1
+
+================================================================================
+
+Paper 5
+
+APA Citation:
+Kate Glazko, Anika Arugunta, Janelle Chan, Nancy Jimenez-Garcia, Tashfia Sharmin, Jennifer Mankoff (2025). Case Study of GAI for Generating Novel Images for Real-World Embroidery. arXiv. https://arxiv.org/pdf/2510.16223v1
+
+IEEE Citation:
+[5] Kate Glazko, Anika Arugunta, Janelle Chan, Nancy Jimenez-Garcia, Tashfia Sharmin, Jennifer Mankoff, "Case Study of GAI for Generating Novel Images for Real-World Embroidery," arXiv, 2025. [Online]. Available: https://arxiv.org/pdf/2510.16223v1
+
+================================================================================

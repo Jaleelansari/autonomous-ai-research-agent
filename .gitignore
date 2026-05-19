@@ -1,0 +1,10 @@
+venv/
+.env
+__pycache__/
+*.pyc
+data/papers/
+data/extracted_text/
+data/summaries/
+presentations/
+reports/
+visualizations/
