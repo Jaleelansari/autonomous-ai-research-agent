@@ -1,0 +1,9 @@
+ Objective: The research paper discusses the need to address the risks of bigness in digital markets, specifically focusing on the European Union's (EU) Digital Markets Act (DMA) and its applicability to generative AI systems. The authors propose integrating certain AI software as "core platform services" and classifying certain developers as gatekeepers under the DMA.
+
+Methodology: The authors analyze the current DMA framework and its potential shortcomings in addressing the risks associated with generative AI systems. They propose an assessment of gatekeeper obligations to ensure they cover generative AI services.
+
+Key Findings: The authors argue that the current DMA framework may not adequately cover generative AI systems that could become gateways for AI-based services. They propose integrating certain AI software as "core platform services" and classifying certain developers as gatekeepers under the DMA. They also suggest an assessment of gatekeeper obligations to ensure they cover generative AI services.
+
+Limitations: The paper is limited to discussing the EU's Digital Markets Act and its applicability to generative AI systems. It does not provide a comprehensive analysis of all AI-related regulations in the EU or other regions.
+
+Future Scope: The authors suggest that as the EU considers generative AI-specific rules and possible DMA amendments, this paper provides insights towards diversity and openness in generative AI services. The authors also note that their proposal could serve as a starting point for further discussions on regulating AI systems in digital markets.

@@ -1,0 +1,9 @@
+ Objective: The research paper aims to explore the impact of Artificial Intelligence (AI) on people's decision-making process. It examines how AI can change how people decide, not just what they decide.
+
+Methodology: The researchers conducted behavioral experiments using a decision paradigm based on Newcomb's paradox, a two-choice task in which different reasoning approaches can lead to different choices. Participants were told that an AI system can predict their choice and were then given the option to take both boxes, which contained a guaranteed US$1 and a variable amount in the second box, or only the second box.
+
+Key Findings: The researchers found that when people believed AI could predict their behavior, they were more likely to self-constrain their decision-making, even if it meant forgoing a guaranteed reward. This effect persisted even when the AI's predictions were incorrect. Over 40% of participants treated AI as a predictive authority, which significantly increased the odds of forgoing the guaranteed reward by a factor of 3.39 and reduced earnings by 10.7-42.9%.
+
+Limitations: The study was limited to a specific decision paradigm, and the findings may not generalize to other decision-making contexts. The participants were also aware that they were being studied, which may have influenced their behavior.
+
+Future Scope: The study highlights the need for further research to understand how AI can shape people's decision-making processes. It also suggests that AI developers and policymakers should consider the potential unintended consequences of predictive algorithms on human behavior.

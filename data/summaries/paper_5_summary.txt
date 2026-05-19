@@ -1,0 +1,9 @@
+ Objective: The research paper presents a case study that explores the potential use of Generative Artificial Intelligence (GAI) to make the design of embroiderable art patterns more accessible, particularly for those with disabilities.
+
+Methodology: The study was conducted as an auto-ethnographic case study by a disabled-led team. They examined the application of GAI in generating embroidery patterns, focusing on the complexity involved in designing culturally-relevant patterns and those that meet specific needs regarding detail and color. The team detailed the iterative process of prompt engineering custom GPTs (Generative Pre-trained Transformers) tailored for producing specific visual outputs.
+
+Key Findings: The findings suggest that employing GAI for producing embroiderable images has mixed outcomes. It can facilitate creativity and inclusion, but also involves navigating the unpredictability of AI-generated designs. The team identified the potential of GAI tools to make the design process more accessible and inclusive, provided they can be refined to be more performant and accessible.
+
+Limitations: The study is limited by the specific context and tools used, and the findings may not generalize to other GAI tools or creative domains. The team acknowledges the need for further research to refine the use of GAI in this context.
+
+Future Scope: The future work aims to refine GAI tools for generating embroiderable images to make them more performant and accessible. The goal is to foster more inclusion in the domains of creativity and making, particularly for those with disabilities.

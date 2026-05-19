@@ -1,10 +1,32 @@
+# =========================
+# VIRTUAL ENVIRONMENT
+# =========================
 venv/
+
+# =========================
+# ENVIRONMENT VARIABLES
+# =========================
 .env
+
+# =========================
+# PYTHON CACHE FILES
+# =========================
 __pycache__/
 *.pyc
+
+# =========================
+# LARGE RAW DATA FILES
+# =========================
 data/papers/
 data/extracted_text/
-data/summaries/
-presentations/
-reports/
-visualizations/
+
+# =========================
+# CHROMADB / VECTOR DB
+# =========================
+data/embeddings/
+
+# =========================
+# OPTIONAL SYSTEM FILES
+# =========================
+.DS_Store
+Thumbs.db

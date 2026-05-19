@@ -1,0 +1,9 @@
+ Objective: The research paper analyzes the public discourse of OpenAI regarding ethical AI, with a focus on the concepts of 'ethics', 'safety', 'alignment', and related terms. The objective is to understand how these concepts have been used over time and their implications for framing in practice.
+
+Methodology: The research involved assembling a structured corpus of public documentation from OpenAI, differentiating between communication for a general audience and communication with an academic audience. Qualitative content analysis of ethical themes was conducted, using both inductively derived and deductively applied codes. Additionally, computational content analysis methods via NLP were used to model topics and quantify changes in rhetoric over time.
+
+Key Findings: The results indicate that safety and risk discourse dominate OpenAI’s public communication and documentation. However, academic and advocacy ethics frameworks or vocabularies are not consistently applied. The findings also highlight the practice of 'ethics-washing' in the industry.
+
+Limitations: The research is limited to the public discourse of OpenAI and may not fully represent the organization's internal practices or the broader discourse in the field of AI ethics. The analysis is also dependent on the accuracy and completeness of the assembled corpus.
+
+Future Scope: The implications for governance and the practice of 'ethics-washing' in the industry can be further explored. The research could be expanded to include other organizations in the field of AI to provide a more comprehensive understanding of the discourse around ethical AI.
